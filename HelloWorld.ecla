@@ -1,0 +1,3 @@
+import "console";
+
+console.println("Hi everyone, I just wanted to say Ecla foreva!");
